@@ -52,3 +52,8 @@
       src="https://img.shields.io/badge/smj2802@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+<div align="center">
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonMyeongJin&layout=compact)]
+</div>
