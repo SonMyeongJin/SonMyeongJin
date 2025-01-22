@@ -15,10 +15,14 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/vue.js-DB7093?style=for-the-badge&logo=vue.js&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/css-E34F26.svg?style=for-the-badge&logo=csswizardry&logoColor=white" />&nbsp
 </div>
 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/swift-F7DF1E.svg?style=for-the-badge&logo=swift&logoColor=20232a" />&nbsp
+</div>
 
 <br>
 
@@ -40,6 +44,7 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/Intellij-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=F37726" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+    <img src="https://img.shields.io/badge/xcode-F7DF1E.svg?style=for-the-badge&logo=xcode&logoColor=20232a" />&nbsp
 </div>
 
 <br>
