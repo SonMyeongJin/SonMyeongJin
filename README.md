@@ -6,7 +6,6 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 
-
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=61DAFB"/>&nbsp
   <img src="https://img.shields.io/badge/Java-1daabb.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
@@ -18,7 +17,6 @@
   <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/css-E34F26.svg?style=for-the-badge&logo=csswizardry&logoColor=white" />&nbsp
 </div>
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/swift-F7DF1E.svg?style=for-the-badge&logo=swift&logoColor=20232a" />&nbsp
@@ -34,7 +32,6 @@
 </div>
 
 <div align="center">
- <!--  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp  -->
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
@@ -43,22 +40,18 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/Intellij-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-    <img src="https://img.shields.io/badge/xcode-F7DF1E.svg?style=for-the-badge&logo=xcode&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/xcode-F7DF1E.svg?style=for-the-badge&logo=xcode&logoColor=20232a" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  
   <a href="smj2802@naver.com">
     <img
       src="https://img.shields.io/badge/smj2802@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 <div align="center">
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonMyeongJin&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonMyeongJin&layout=compact)
 </div>
