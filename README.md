@@ -45,6 +45,11 @@
 
 <br>
 
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonMyeongJin&exclude_repo=SonMyeongJin.github.io&layout=donut)](https://github.com/SonMyeongJin)
+</div>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="smj2802@naver.com">
@@ -52,8 +57,4 @@
   </a>
 </div>
 
-<div align="center">
 
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonMyeongJin&layout=compact)
-</div>
