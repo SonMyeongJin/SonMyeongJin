@@ -5,12 +5,8 @@
 
 <!--동물농장 부분 (중앙 정렬 적용)-->
 <div align="center">
-  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=SonMyeongJin&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/SonMyeongJin"
-      width="600"
-      height="300"
-    />
+  <a href="https://gitpokecol.2jun0.com">
+      <img src="https://apigitpokecol.2jun0.com/pokemons/m-son?face=left&width=520&height=210&background=normal" alt="m-son's GitHub Pokemon Collection"/>
   </a>
 </div>
 
