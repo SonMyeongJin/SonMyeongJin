@@ -6,7 +6,7 @@
 <!--동물농장 부분 (중앙 정렬 적용)-->
 <div align="center">
   <a href="https://gitpokecol.2jun0.com">
-      <img src="https://apigitpokecol.2jun0.com/pokemons/m-son?face=left&width=520&height=210&background=normal" alt="m-son's GitHub Pokemon Collection"/>
+      <img src="https://apigitpokecol.2jun0.com/pokemons/SonMyeongJin?face=left&width=520&height=210&background=normal" alt="SonMyeongJin's GitHub Pokemon Collection"/>
   </a>
 </div>
 
